@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/sentText"
+        android:layout_alignParentEnd="true"
+        android:background="@drawable/edit_text_design"
+        android:text="@string/sample_text_send"
+        android:padding="8dp"
+        android:layout_marginLeft="64dp"
+        android:textColor="#141414"
+        android:textSize="20sp"
+        />
+
+</RelativeLayout>

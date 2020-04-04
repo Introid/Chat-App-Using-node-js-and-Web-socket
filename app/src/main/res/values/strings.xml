@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Chat App</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="enter_room">Enter Room</string>
+    <string name="type_message">Type Message</string>
+    <string name="sample_text_send">Sample Text Send</string>
+    <string name="send">Send</string>
+    <string name="name">Name</string>
+    <string name="received_message">Received Message</string>
+</resources>
